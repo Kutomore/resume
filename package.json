@@ -1,0 +1,21 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My resume page based on a bootstrap template",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kutomore/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "kutomore",
+    "web-developer"
+  ],
+  "author": "Kutomore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kutomore/resume/issues"
+  },
+  "homepage": "https://github.com/Kutomore/resume#readme"
+}

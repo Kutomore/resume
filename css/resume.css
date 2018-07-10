@@ -145,7 +145,6 @@ a {
 
 a:active,
 a:focus,
-a:hover,
-.devicons:hover{
+a:hover{
     color: black!important;
 }
